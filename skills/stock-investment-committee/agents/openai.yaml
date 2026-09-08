@@ -1,0 +1,9 @@
+interface:
+  display_name: "股票投委会"
+  short_description: "多席位辩论、可信信源核验与持仓行动方案"
+  brand_color: "#9B2C2C"
+  default_prompt: "使用 $stock-investment-committee 分析我的股票持仓，并给出具体买卖区间、股数和触发条件。"
+
+policy:
+  allow_implicit_invocation: true
+
